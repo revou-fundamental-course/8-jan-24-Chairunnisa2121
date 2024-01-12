@@ -52,5 +52,5 @@ button:hover {
 }
 button:active {
     background-color: #554b2c;
-    transform: translateY(2px);
+    transform: translateY(1px);
 }
